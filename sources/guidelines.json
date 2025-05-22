@@ -1,9 +1,9 @@
 {
     "effects": ["Copy", "Guidelines"],
     "guidelines": [
-        {"height": "Descender", "thickness": 10},
-        {"height": 0, "thickness": 20},
-        {"height": "x-Height", "thickness": 5},
-        {"height": "Cap Height", "thickness": 10}
+        {"height": -400, "thickness": 10},
+        {"height": -34, "thickness": 20},
+        {"height": 514, "thickness": 5},
+        {"height": 890, "thickness": 10}
     ]
 }
