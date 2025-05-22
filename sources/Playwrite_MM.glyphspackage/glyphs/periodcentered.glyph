@@ -1,5 +1,6 @@
 {
 category = Punctuation;
+color = 5;
 glyphname = periodcentered;
 layers = (
 {

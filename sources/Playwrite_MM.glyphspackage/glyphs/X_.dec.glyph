@@ -1,5 +1,6 @@
 {
 color = 8;
+export = 0;
 glyphname = X.dec;
 kernLeft = X.cur;
 kernRight = X.dec;

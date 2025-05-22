@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = J.dec;
 kernLeft = H.dec;
 kernRight = G.cur;

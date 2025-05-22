@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = n;
 kernLeft = n;
 kernRight = n;
@@ -14,6 +15,46 @@ name = top;
 pos = (313,500);
 }
 );
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(646,890,l),
+(646,900,l),
+(0,900,l),
+(0,890,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(646,-34,l),
+(646,-14,l),
+(0,-14,l),
+(0,-34,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(646,514,l),
+(646,519,l),
+(0,519,l),
+(0,514,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(646,-400,l),
+(646,-390,l),
+(0,-390,l),
+(0,-400,l)
+);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
@@ -350,6 +391,19 @@ name = top;
 pos = (313,500);
 }
 );
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(888,519,l),
+(0,519,l),
+(0,515,l),
+(888,515,l)
+);
+}
+);
+};
 layerId = m005;
 shapes = (
 {

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Idieresis;
 kernLeft = B;
 kernRight = H;

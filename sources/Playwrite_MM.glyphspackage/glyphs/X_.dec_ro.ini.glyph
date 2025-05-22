@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = X.dec_ro.ini;
 kernLeft = X.cur;
 layers = (

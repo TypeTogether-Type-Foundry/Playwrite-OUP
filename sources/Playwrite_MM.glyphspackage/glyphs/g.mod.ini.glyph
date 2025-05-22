@@ -1,5 +1,6 @@
 {
 color = 11;
+export = 0;
 glyphname = g.mod.ini;
 kernLeft = a;
 kernRight = j.mod.med;

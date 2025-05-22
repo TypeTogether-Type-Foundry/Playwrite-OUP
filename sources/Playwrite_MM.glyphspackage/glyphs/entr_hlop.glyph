@@ -1,6 +1,7 @@
 {
 category = Mark;
 color = 5;
+export = 0;
 glyphname = entr_hlop;
 layers = (
 {

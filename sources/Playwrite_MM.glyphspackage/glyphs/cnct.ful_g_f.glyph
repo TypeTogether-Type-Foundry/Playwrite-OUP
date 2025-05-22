@@ -1,6 +1,7 @@
 {
 category = Mark;
 color = 5;
+export = 0;
 glyphname = cnct.ful_g_f;
 layers = (
 {

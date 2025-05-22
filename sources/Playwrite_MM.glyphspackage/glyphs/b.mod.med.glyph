@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = b.mod.med;
 kernLeft = k.mod.med;
 kernRight = b.mod.ini;

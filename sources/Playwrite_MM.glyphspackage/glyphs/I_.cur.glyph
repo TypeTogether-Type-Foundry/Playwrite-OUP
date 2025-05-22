@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = I.cur;
 kernLeft = I.cur;
 layers = (

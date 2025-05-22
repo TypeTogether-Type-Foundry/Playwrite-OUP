@@ -1,5 +1,6 @@
 {
 color = 3;
+export = 0;
 glyphname = ij.mod.med;
 kernRight = j.mod.med;
 layers = (

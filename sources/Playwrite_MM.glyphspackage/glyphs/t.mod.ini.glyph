@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = t.mod.ini;
 kernLeft = t;
 layers = (

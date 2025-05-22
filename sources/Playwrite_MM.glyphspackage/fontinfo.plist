@@ -1,5 +1,5 @@
 {
-.appVersion = "3327";
+.appVersion = "3413";
 .formatVersion = 3;
 axes = (
 {
@@ -1522,13 +1522,13 @@ value = m005;
 }
 );
 date = "2024-04-18 16:45:18 +0000";
-familyName = Playwrite;
+familyName = "OUP Playwrite";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-include(features/Playwrite.fea);
+#include(features/Playwrite.fea);
 ";
 name = Languagesystems;
 }
@@ -1658,6 +1658,54 @@ sub slashlongcomb by slashlongcomb.case;
 ";
 disabled = 1;
 tag = case;
+},
+{
+code = "featureNames {
+	name \"UK forms\";
+	name 1 \"UK forms\";
+};
+
+sub [G a g e q fi fl zero one four f I J Q nine comma quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright] by [G_uk a_uk g_uk e_uk q_uk fi_uk fl_uk zero_uk one.alt1 four_uk f.prt I_locl J.alt1 Q.alt1 nine.alt1 comma_locl quotesinglbase_locl quotedblbase_locl quotedblleft_locl quotedblright_locl quoteleft_locl quoteright_locl];
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+},
+{
+code = "featureNames {
+	name \"US forms\";
+	name 1 \"US forms\";
+};
+
+sub [a d e h i k l m n t u y fi fl four f I J Q nine comma quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright] by [a.prt d.prt e.prt h.prt i.prt k.prt l.prt m.prt n.prt t.prt u.prt y_de fi.prt fl.prt four.alt1 f.prt I_locl J.alt1 Q.alt1 nine.alt1 comma_locl quotesinglbase_locl quotedblbase_locl quotedblleft_locl quotedblright_locl quoteleft_locl quoteright_locl];
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
+},
+{
+code = "featureNames {
+	name \"long j\";
+	name 1 \"long j\";
+};
+
+sub j by j.prt2;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss03;
 }
 );
 fontMaster = (
@@ -2261,15 +2309,6 @@ name = winDescent;
 value = 400;
 }
 );
-guides = (
-{
-pos = (463,1063);
-},
-{
-angle = 72;
-pos = (276,500);
-}
-);
 iconName = Bold;
 id = m008;
 metricValues = (
@@ -2340,11 +2379,6 @@ value = 2040;
 {
 name = winDescent;
 value = 1020;
-}
-);
-guides = (
-{
-pos = (265,1519);
 }
 );
 iconName = Light;
@@ -2907,21 +2941,6 @@ weightClass = 100;
 },
 {
 axesValues = (
-100,
--18,
-375,
-0
-);
-instanceInterpolations = {
-m002 = 1;
-};
-isItalic = 1;
-linkStyle = Thin;
-name = "Thin Italic";
-weightClass = 100;
-},
-{
-axesValues = (
 200,
 0,
 375,
@@ -2932,22 +2951,6 @@ m005 = 0.33333;
 m01 = 0.66667;
 };
 name = ExtraLight;
-weightClass = 200;
-},
-{
-axesValues = (
-200,
--18,
-375,
-0
-);
-instanceInterpolations = {
-m002 = 0.66667;
-m006 = 0.33333;
-};
-isItalic = 1;
-linkStyle = Extralight;
-name = "ExtraLight Italic";
 weightClass = 200;
 },
 {
@@ -2966,22 +2969,6 @@ weightClass = 300;
 },
 {
 axesValues = (
-300,
--18,
-375,
-0
-);
-instanceInterpolations = {
-m002 = 0.33333;
-m006 = 0.66667;
-};
-isItalic = 1;
-linkStyle = Light;
-name = "Light Italic";
-weightClass = 300;
-},
-{
-axesValues = (
 400,
 0,
 375,
@@ -2994,11 +2981,76 @@ name = Regular;
 },
 {
 axesValues = (
+648,
+0,
+375,
+0
+);
+instanceInterpolations = {
+m005 = 1.82667;
+m01 = -0.82667;
+};
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+100,
+-18,
+375,
+0
+);
+exports = 0;
+instanceInterpolations = {
+m002 = 1;
+};
+isItalic = 1;
+linkStyle = Thin;
+name = "Thin Italic";
+weightClass = 100;
+},
+{
+axesValues = (
+200,
+-18,
+375,
+0
+);
+exports = 0;
+instanceInterpolations = {
+m002 = 0.66667;
+m006 = 0.33333;
+};
+isItalic = 1;
+linkStyle = Extralight;
+name = "ExtraLight Italic";
+weightClass = 200;
+},
+{
+axesValues = (
+300,
+-18,
+375,
+0
+);
+exports = 0;
+instanceInterpolations = {
+m002 = 0.33333;
+m006 = 0.66667;
+};
+isItalic = 1;
+linkStyle = Light;
+name = "Light Italic";
+weightClass = 300;
+},
+{
+axesValues = (
 400,
 -18,
 375,
 0
 );
+exports = 0;
 instanceInterpolations = {
 m006 = 1;
 };
@@ -3172,6 +3224,19 @@ G.dec = -90;
 "@MMK_R_Y" = -40;
 "@MMK_R_Z.cur" = -60;
 "@MMK_R_quoteright" = -30;
+};
+"@MMK_L_G_uk" = {
+"@MMK_R_J" = -40;
+"@MMK_R_S" = -40;
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -30;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -30;
+"@MMK_R_a" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_period" = -80;
+"@MMK_R_s" = -20;
+"@MMK_R_u" = -10;
 };
 "@MMK_L_K" = {
 "@MMK_R_O" = -10;
@@ -4026,6 +4091,9 @@ f.mrr.fin = {
 "@MMK_R_guilsinglleft" = -20;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_period" = -40;
+};
+j.prt2 = {
+j.prt2 = 140;
 };
 seven = {
 "@MMK_R_period" = -110;
@@ -19054,7 +19122,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)";
+value = "Copyright 2025 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)";
 }
 );
 },

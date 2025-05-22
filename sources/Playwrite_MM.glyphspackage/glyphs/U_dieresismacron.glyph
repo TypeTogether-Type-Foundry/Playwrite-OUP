@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = Udieresismacron;
 kernLeft = U;
 kernRight = U;

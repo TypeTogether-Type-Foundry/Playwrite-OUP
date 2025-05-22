@@ -1,5 +1,6 @@
 {
 category = Mark;
+export = 0;
 glyphname = cnct.lop_t.lop_de_h;
 layers = (
 {

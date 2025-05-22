@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = thorn.jmc.med;
 kernLeft = thorn.jmc.med;
 layers = (

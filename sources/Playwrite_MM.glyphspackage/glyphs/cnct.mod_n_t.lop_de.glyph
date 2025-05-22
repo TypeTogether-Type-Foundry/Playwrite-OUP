@@ -1,6 +1,7 @@
 {
 category = Mark;
 color = 5;
+export = 0;
 glyphname = cnct.mod_n_t.lop_de;
 layers = (
 {

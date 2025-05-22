@@ -1,5 +1,6 @@
 {
 color = 9;
+export = 0;
 glyphname = e.mod.med_b_;
 kernLeft = o.mod.med;
 layers = (

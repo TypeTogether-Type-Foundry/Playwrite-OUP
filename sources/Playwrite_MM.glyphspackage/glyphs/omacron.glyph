@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = omacron;
 kernLeft = o;
 kernRight = o;

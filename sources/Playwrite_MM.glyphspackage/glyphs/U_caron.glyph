@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = Ucaron;
 kernLeft = U;
 kernRight = U;

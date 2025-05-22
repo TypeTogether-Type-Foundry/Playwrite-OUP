@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = q.mod.med;
 kernLeft = a.mod.med;
 kernRight = j.mod.med;

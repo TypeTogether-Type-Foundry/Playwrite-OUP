@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = Idotaccent;
 kernLeft = B;
 kernRight = H;
