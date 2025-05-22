@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = idotless.mod.med;
 kernLeft = i.mod.med;
 layers = (

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = w.cnt.ini;
 kernLeft = n.cnt;
 layers = (

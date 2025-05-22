@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = n.cnt.fin_n_;
 kernRight = n;
 layers = (

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Ydotbelow;
 kernLeft = Y;
 kernRight = Y;

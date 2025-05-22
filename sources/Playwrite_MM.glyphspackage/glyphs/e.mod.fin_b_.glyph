@@ -1,6 +1,5 @@
 {
 color = 9;
-export = 0;
 glyphname = e.mod.fin_b_;
 kernLeft = o.mod.med;
 kernRight = e;

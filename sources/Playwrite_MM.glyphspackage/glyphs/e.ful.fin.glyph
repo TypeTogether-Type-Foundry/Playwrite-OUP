@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = e.ful.fin;
 kernRight = e;
 layers = (

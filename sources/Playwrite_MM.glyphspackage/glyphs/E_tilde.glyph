@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Etilde;
 kernLeft = B;
 kernRight = E;

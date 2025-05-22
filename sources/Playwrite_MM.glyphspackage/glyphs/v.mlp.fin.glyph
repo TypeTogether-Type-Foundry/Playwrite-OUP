@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = v.mlp.fin;
 kernRight = v.mlp.fin;
 layers = (

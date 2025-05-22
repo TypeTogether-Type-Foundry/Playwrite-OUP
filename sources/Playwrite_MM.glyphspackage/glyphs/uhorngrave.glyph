@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = uhorngrave;
 kernLeft = u;
 kernRight = uhorn;

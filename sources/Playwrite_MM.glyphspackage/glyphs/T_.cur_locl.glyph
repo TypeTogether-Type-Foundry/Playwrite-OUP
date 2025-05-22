@@ -1,6 +1,5 @@
 {
 color = 0;
-export = 0;
 glyphname = T.cur_locl;
 kernLeft = T.cur_locl;
 kernRight = T.cur_locl;

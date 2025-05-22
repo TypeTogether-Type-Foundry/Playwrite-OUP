@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = abrevehookabove;
 kernLeft = a;
 kernRight = a;

@@ -1,7 +1,6 @@
 {
 category = Mark;
 color = 1;
-export = 0;
 glyphname = cnct.mod_v_x.ful;
 layers = (
 {

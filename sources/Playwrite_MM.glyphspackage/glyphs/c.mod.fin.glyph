@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = c.mod.fin;
 kernLeft = o.mod.med;
 kernRight = o;

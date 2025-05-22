@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = u.mod.ini;
 kernLeft = u;
 layers = (

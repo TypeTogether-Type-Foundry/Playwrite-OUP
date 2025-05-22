@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = jdotless.mod.ini;
 kernLeft = i;
 kernRight = j.mod.med;

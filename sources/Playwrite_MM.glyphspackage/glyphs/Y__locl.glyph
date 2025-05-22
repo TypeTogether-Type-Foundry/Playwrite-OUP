@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Y_locl;
 kernLeft = Y;
 kernRight = Y;

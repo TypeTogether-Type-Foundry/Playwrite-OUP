@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = zdotaccent;
 kernLeft = z;
 kernRight = z;

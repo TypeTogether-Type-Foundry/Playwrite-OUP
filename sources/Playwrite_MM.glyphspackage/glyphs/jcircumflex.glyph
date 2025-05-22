@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = jcircumflex;
 kernLeft = i;
 kernRight = g;

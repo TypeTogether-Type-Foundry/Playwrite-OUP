@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = H.dec;
 kernLeft = H.dec;
 layers = (

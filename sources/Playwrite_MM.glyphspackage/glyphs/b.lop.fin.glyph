@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = b.lop.fin;
 kernRight = germandbls.jmc.fin;
 layers = (

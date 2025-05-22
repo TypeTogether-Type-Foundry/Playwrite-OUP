@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = wgrave;
 kernLeft = v;
 kernRight = v;

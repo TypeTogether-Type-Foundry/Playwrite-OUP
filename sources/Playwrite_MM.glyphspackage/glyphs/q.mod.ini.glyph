@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = q.mod.ini;
 kernLeft = a;
 kernRight = j.mod.med;

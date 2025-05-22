@@ -1528,7 +1528,7 @@ featurePrefixes = (
 code = "languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-#include(features/Playwrite.fea);
+include(features/Playwrite.fea);
 ";
 name = Languagesystems;
 }
@@ -1667,6 +1667,7 @@ code = "featureNames {
 
 sub [G a g e q fi fl zero one four f I J Q nine comma quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright] by [G_uk a_uk g_uk e_uk q_uk fi_uk fl_uk zero_uk one.alt1 four_uk f.prt I_locl J.alt1 Q.alt1 nine.alt1 comma_locl quotesinglbase_locl quotedblbase_locl quotedblleft_locl quotedblright_locl quoteleft_locl quoteright_locl];
 ";
+disabled = 1;
 labels = (
 {
 language = dflt;
@@ -1683,6 +1684,7 @@ code = "featureNames {
 
 sub [a d e h i k l m n t u y fi fl four f I J Q nine comma quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright] by [a.prt d.prt e.prt h.prt i.prt k.prt l.prt m.prt n.prt t.prt u.prt y_de fi.prt fl.prt four.alt1 f.prt I_locl J.alt1 Q.alt1 nine.alt1 comma_locl quotesinglbase_locl quotedblbase_locl quotedblleft_locl quotedblright_locl quoteleft_locl quoteright_locl];
 ";
+disabled = 1;
 labels = (
 {
 language = dflt;
@@ -1699,6 +1701,7 @@ code = "featureNames {
 
 sub j by j.prt2;
 ";
+disabled = 1;
 labels = (
 {
 language = dflt;
@@ -2986,6 +2989,7 @@ axesValues = (
 375,
 0
 );
+exports = 0;
 instanceInterpolations = {
 m005 = 1.82667;
 m01 = -0.82667;

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = R.dec.ini;
 kernLeft = B.dec;
 layers = (

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = aogonek;
 kernLeft = a;
 kernRight = a;

@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = eth.mod.fin;
 kernLeft = o.mod.med;
 kernRight = o;

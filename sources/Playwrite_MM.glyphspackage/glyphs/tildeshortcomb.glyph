@@ -1,7 +1,6 @@
 {
 case = lower;
 category = Mark;
-export = 0;
 glyphname = tildeshortcomb;
 layers = (
 {

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = x.mod.ini;
 kernLeft = x;
 layers = (

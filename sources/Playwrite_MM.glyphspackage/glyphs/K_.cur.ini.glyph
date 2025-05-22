@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = K.cur.ini;
 kernLeft = B.cur;
 layers = (

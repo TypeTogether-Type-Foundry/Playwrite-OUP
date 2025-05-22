@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Q.dec_pt;
 kernLeft = Q.dec_pt;
 kernRight = Q.dec_pt;

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Z.cur.ini;
 kernLeft = Z.cur;
 layers = (

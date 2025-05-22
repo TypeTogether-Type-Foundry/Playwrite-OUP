@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Ygrave;
 kernLeft = Y;
 kernRight = Y;

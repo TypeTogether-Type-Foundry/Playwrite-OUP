@@ -1,6 +1,5 @@
 {
 color = 9;
-export = 0;
 glyphname = e.ful.fin_o_;
 kernRight = e;
 layers = (

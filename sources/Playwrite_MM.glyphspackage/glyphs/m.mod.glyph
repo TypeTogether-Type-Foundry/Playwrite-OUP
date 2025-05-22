@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = m.mod;
 kernLeft = n;
 kernRight = n;

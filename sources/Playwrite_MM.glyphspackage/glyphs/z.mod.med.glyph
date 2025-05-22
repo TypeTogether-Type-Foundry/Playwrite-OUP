@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = z.mod.med;
 kernLeft = z.mod.med;
 layers = (

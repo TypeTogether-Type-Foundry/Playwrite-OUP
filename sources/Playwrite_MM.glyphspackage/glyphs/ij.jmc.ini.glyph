@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = ij.jmc.ini;
 kernLeft = i;
 layers = (

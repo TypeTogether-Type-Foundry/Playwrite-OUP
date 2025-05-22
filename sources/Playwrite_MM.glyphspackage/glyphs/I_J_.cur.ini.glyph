@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = IJ.cur.ini;
 kernLeft = IJ.cur;
 layers = (

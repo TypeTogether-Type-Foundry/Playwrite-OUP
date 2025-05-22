@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = ohookabove;
 kernLeft = o;
 kernRight = o;

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = f.ful.ini;
 kernLeft = r.ful.ini;
 layers = (

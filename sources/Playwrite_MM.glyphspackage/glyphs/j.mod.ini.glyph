@@ -1,6 +1,5 @@
 {
 color = 11;
-export = 0;
 glyphname = j.mod.ini;
 kernLeft = i;
 kernRight = j.mod.med;

@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = q.jmc_ar.ini;
 kernLeft = a;
 layers = (

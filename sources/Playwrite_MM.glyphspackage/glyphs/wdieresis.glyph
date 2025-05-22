@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = wdieresis;
 kernLeft = v;
 kernRight = v;

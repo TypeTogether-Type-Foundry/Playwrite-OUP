@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Uhungarumlaut;
 kernLeft = U;
 kernRight = U;

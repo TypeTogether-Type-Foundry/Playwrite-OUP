@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Y.cur.ini;
 kernLeft = M.cur;
 layers = (

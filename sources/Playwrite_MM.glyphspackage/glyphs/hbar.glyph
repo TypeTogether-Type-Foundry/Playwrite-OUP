@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = hbar;
 kernLeft = b;
 kernRight = n;

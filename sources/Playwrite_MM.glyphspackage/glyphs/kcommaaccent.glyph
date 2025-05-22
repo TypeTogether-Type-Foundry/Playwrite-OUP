@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = kcommaaccent;
 kernLeft = b;
 kernRight = k;

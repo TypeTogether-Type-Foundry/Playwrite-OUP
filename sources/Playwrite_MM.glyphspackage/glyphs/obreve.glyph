@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = obreve;
 kernLeft = o;
 kernRight = o;

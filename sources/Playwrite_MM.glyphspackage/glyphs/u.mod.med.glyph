@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = u.mod.med;
 kernLeft = i.mod.med;
 layers = (

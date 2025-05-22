@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = dcaron;
 kernLeft = a;
 kernRight = a;

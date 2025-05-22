@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = lcaron;
 kernLeft = b;
 kernRight = a;

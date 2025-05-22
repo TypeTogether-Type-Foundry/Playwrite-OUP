@@ -1,6 +1,5 @@
 {
 color = 9;
-export = 0;
 glyphname = m.cnt.fin_n_;
 kernRight = n;
 layers = (

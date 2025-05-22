@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = ccircumflex;
 kernLeft = o;
 kernRight = c;

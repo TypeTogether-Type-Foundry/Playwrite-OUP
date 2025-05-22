@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = Q.cur.ini;
 kernLeft = O;
 layers = (

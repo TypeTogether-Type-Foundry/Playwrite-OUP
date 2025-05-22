@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = M.dec.ini;
 kernLeft = M.dec;
 layers = (

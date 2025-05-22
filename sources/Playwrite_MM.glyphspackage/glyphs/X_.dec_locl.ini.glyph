@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = X.dec_locl.ini;
 kernLeft = X.dec_locl;
 layers = (

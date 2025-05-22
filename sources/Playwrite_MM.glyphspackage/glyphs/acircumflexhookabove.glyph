@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = acircumflexhookabove;
 kernLeft = a;
 kernRight = a;

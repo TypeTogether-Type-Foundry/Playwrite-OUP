@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = z.cnt.fin;
 kernRight = g.jmc.fin;
 layers = (

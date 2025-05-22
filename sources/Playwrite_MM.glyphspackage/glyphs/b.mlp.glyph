@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = b.mlp;
 kernLeft = r.ful.ini;
 layers = (

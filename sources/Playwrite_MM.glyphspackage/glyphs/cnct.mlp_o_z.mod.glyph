@@ -1,7 +1,6 @@
 {
 category = Mark;
 color = 5;
-export = 0;
 glyphname = cnct.mlp_o_z.mod;
 layers = (
 {

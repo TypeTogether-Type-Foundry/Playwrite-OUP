@@ -1,7 +1,6 @@
 {
 category = Mark;
 color = 4;
-export = 0;
 glyphname = cnct.mod_G_t;
 layers = (
 {

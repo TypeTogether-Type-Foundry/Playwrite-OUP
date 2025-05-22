@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = z.mod_ro.ini;
 kernLeft = z;
 layers = (

@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = ohornhookabove;
 kernLeft = o;
 kernRight = ohorn;

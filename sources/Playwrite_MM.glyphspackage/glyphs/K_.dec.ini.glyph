@@ -1,5 +1,4 @@
 {
-export = 0;
 glyphname = K.dec.ini;
 kernLeft = H.dec;
 layers = (

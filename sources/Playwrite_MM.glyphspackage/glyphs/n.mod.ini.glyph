@@ -1,6 +1,5 @@
 {
 color = 6;
-export = 0;
 glyphname = n.mod.ini;
 kernLeft = n;
 layers = (
