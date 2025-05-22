@@ -1,0 +1,153 @@
+{
+color = 6;
+export = 0;
+glyphname = eth.mod.fin;
+kernLeft = o.mod.med;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m016;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m012;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m011;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m015;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m010;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m014;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+},
+{
+layerId = m013;
+shapes = (
+{
+ref = eth;
+}
+);
+width = 603;
+}
+);
+}

@@ -4,7 +4,7 @@ from pendot import create_effects, find_instance, transform_font
 from glyphsLib.builder.transformations.propagate_anchors import propagate_all_anchors
 
 
-font = glyphsLib.load("sources/Playwrite_MM.glyphspackage")
+font = glyphsLib.load("sources/Playwrite_OUP_MM_03.glyphspackage")
 
 propagate_all_anchors(font)
 

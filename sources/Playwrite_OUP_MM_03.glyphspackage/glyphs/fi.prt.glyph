@@ -1,0 +1,216 @@
+{
+color = 6;
+glyphname = fi.prt;
+kernLeft = f;
+kernRight = a.prt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 608;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 616;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 640;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 630;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m010;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 608;
+},
+{
+layerId = m011;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m012;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 616;
+},
+{
+layerId = m013;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 640;
+},
+{
+layerId = m014;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m015;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 627;
+},
+{
+layerId = m016;
+shapes = (
+{
+ref = f.prt;
+},
+{
+pos = (366,0);
+ref = i.prt;
+}
+);
+width = 630;
+}
+);
+}

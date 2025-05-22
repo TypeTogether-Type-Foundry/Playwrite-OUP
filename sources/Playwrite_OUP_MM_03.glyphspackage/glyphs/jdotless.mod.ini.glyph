@@ -1,0 +1,250 @@
+{
+color = 6;
+export = 0;
+glyphname = jdotless.mod.ini;
+kernLeft = i;
+kernRight = j.mod.med;
+layers = (
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m004;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 286;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m006;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 284;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m007;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 279;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m008;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 279;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m009;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m010;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m011;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m012;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m013;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 286;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m014;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (305,0);
+}
+);
+layerId = m015;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 279;
+},
+{
+anchors = (
+{
+name = cnct;
+pos = (224,0);
+}
+);
+layerId = m016;
+shapes = (
+{
+ref = jdotless.mod;
+}
+);
+width = 280;
+}
+);
+metricLeft = jdotless;
+}
